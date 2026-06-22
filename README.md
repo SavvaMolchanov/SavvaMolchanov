@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Savva 
-- 👀 I’m interested in Java, Kotlin, Android...
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 
 
 <!---
 S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
